@@ -20,9 +20,27 @@
 
 <details>
   <summary>[<strong>청명</strong> 淸明] 4월 5일</summary>
+
+**주제: 미정**
+  
+> 📆 : 4월 5일 화요일 | 20:00 ~ 21:00
+  
+> 🗣 : Kate_송무송 [@moosongsong](https://github.com/moosongsong)
+
+> 📍 : 
+
 </details>
 <details>
 <summary>[<strong>곡우</strong> 穀雨] 4월 20일</summary>
+
+**주제: 미정**
+  
+> 📆 : 4월 20일 수요일 | 20:00 ~ 21:00
+  
+> 🗣 : Dudo_이정우 [@leejw0803](https://github.com/leejw0803)
+
+> 📍 : 
+
 </details>
 <details>
 <summary>[<strong>입하</strong> 立夏] 5월 5일</summary>
@@ -31,21 +49,6 @@
 # 🗃 Archive
 
 ## 2022년
+[[<strong>춘분</strong> 春分] 3월 21일 : <strong>AWS로 나만의 네트워크 구축하기</strong>](https://github.com/24Seasons/talk/blob/main/contens/210321-danny/content.md)
 
-<details>
-  <summary>[<strong>춘분</strong> 春分] 3월 21일 : <strong>AWS로 나만의 네트워크 구축하기</strong></summary>
-<pre>
-요즘 들어 해지는 시간이 점점 늦춰진다는 느낌이 들고 있지 않으신가요?
-낮과 밤의 길이가 같아지는 춘분을 맞이해서 24절기톡 첫 번째 발표를 진행하려고 합니다.</pre>
 
-**주제: AWS로 나만의 네트워크 구축하기**
-
-> 📅 : 3월21일 월요일 | 20:00 ~ 21:00
-
-> 🗣️ : Danny\_김지욱
-
-> 📍 : 마로마브 회의실
-
-[발표 스크립트](https://github.com/24Seasons/talk/blob/main/contens/210321-danny/content.md)
-
-</details>
