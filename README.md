@@ -49,6 +49,6 @@
 # 🗃 Archive
 
 ## 2022년
-[[<strong>춘분</strong> 春分] 3월 21일 : <strong>AWS로 나만의 네트워크 구축하기</strong>](https://github.com/24Seasons/talk/blob/main/contens/210321-danny/content.md)
+[[<strong>춘분</strong> 春分] 3월 21일 : <strong>AWS로 나만의 네트워크 구축하기</strong>](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/content.md)
 
 
