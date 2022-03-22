@@ -22,24 +22,24 @@
   <summary>[<strong>청명</strong> 淸明] 4월 5일</summary>
 
 **주제: 미정**
-  
-> 📆 : 4월 5일 화요일 | 20:00 ~ 21:00
-  
-> 🗣 : Kate_송무송 [@moosongsong](https://github.com/moosongsong)
 
-> 📍 : 
+> 📆 : 4월 5일 화요일 | 20:00 ~ 21:00
+
+> 🗣 : Kate\_송무송 [@moosongsong](https://github.com/moosongsong)
+
+> 📍 :
 
 </details>
 <details>
 <summary>[<strong>곡우</strong> 穀雨] 4월 20일</summary>
 
 **주제: 미정**
-  
-> 📆 : 4월 20일 수요일 | 20:00 ~ 21:00
-  
-> 🗣 : Dudo_이정우 [@leejw0803](https://github.com/leejw0803)
 
-> 📍 : 
+> 📆 : 4월 20일 수요일 | 20:00 ~ 21:00
+
+> 🗣 : Dudo\_이정우 [@leejw0803](https://github.com/leejw0803)
+
+> 📍 :
 
 </details>
 <details>
@@ -49,6 +49,5 @@
 # 🗃 Archive
 
 ## 2022년
-[[<strong>춘분</strong> 春分] 3월 21일 : <strong>AWS로 나만의 네트워크 구축하기</strong>](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/content.md)
 
-
+[[<strong>춘분</strong> 春分] 3월 21일 : <strong>AWS로 나만의 네트워크 구축하기</strong>](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/README.md)
