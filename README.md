@@ -46,7 +46,7 @@
 <summary>[<strong>입하</strong> 立夏] 5월 5일</summary>
 </details>
 <details>
-<summary>[<strong>소만</strong> 小滿] 5월 21일 : <strong>비전공자를 위한 이해할 수 있는 IT 지식을 읽은 디자이너</strong></summary>
+<summary>[<strong>소만</strong> 小滿] 5월 21일 : <strong>📚 비전공자를 위한 이해할 수 있는 IT 지식(을 읽은 디자이너)</strong></summary>
 
 
 > 📆 : 5월 21일 수요일 | 20:00 ~ 21:00
@@ -61,4 +61,4 @@
 
 ## 2022년
 
-[[<strong>춘분</strong> 春分] 3월 21일 : <strong>AWS로 나만의 네트워크 구축하기</strong>](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/README.md)
+[[<strong>춘분</strong> 春分] 3월 21일 : <strong>☁️ AWS로 나만의 네트워크 구축하기</strong>](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/README.md)
