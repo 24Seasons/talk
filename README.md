@@ -46,9 +46,8 @@
 <summary>[<strong>입하</strong> 立夏] 5월 5일</summary>
 </details>
 <details>
-<summary>[<strong>소만</strong> 小滿] 5월 21일</summary>
+<summary>[<strong>소만</strong> 小滿] 5월 21일 : <strong>비전공자를 위한 이해할 수 있는 IT 지식을 읽은 디자이너</strong></summary>
 
-**주제: 비전공자를 위한 이해할 수 있는 IT 지식을 읽은 디자이너**
 
 > 📆 : 5월 21일 수요일 | 20:00 ~ 21:00
 
