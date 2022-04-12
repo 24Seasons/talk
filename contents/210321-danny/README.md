@@ -14,9 +14,14 @@
 ---
 
 ### [🖥 발표 영상](https://youtu.be/ZDJuoDiMGC4)
+
 [![thumbnail](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/images/tumbnail.png?raw=true)](https://youtu.be/ZDJuoDiMGC4)
 
 ### [📄 스크립트](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/script.md)
+
+### 🙋‍♂️ QnA
+
+- [네트워크 ACL을 사용하는 이유](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/network-acl.md)
 
 ### 📎 참고
 
