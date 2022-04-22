@@ -19,16 +19,6 @@
 # 🗓 일정
 
 <details>
-<summary>[<strong>곡우</strong> 穀雨] 4월 20일: <strong>📦 npm, 어디까지 알아봤니?</strong></summary>
-
-> 📆 : 4월 20일 수요일 | 20:00 ~ 21:00
-
-> 🗣 : Dudo\_이정우 [@leejw0803](https://github.com/leejw0803)
-
-> 📍 : 마로마브 회의실
-
-</details>
-<details>
 <summary>[<strong>입하</strong> 立夏] 5월 5일</summary>
 </details>
 <details>
@@ -46,6 +36,8 @@
 
 ## 2022년
 
-[[<strong>청명</strong> 淸明] 4월 5일 : <strong>모던 아키텍처로 보는 MSA 실패 요인 파악</strong>](https://github.com/24Seasons/talk/blob/main/contents/210405-kate/README.md)
+[[<strong>곡우</strong> 穀雨] 4월 20일 : <strong>📦 npm, 어디까지 알아봤니?</strong>](https://github.com/24Seasons/talk/blob/main/contents/210420-dudo/README.md)
+
+[[<strong>청명</strong> 淸明] 4월 5일 : <strong> 모던 아키텍처로 보는 MSA 실패 요인 파악</strong>](https://github.com/24Seasons/talk/blob/main/contents/210405-kate/README.md)
 
 [[<strong>춘분</strong> 春分] 3월 21일 : <strong>☁️ AWS로 나만의 네트워크 구축하기</strong>](https://github.com/24Seasons/talk/blob/main/contents/210321-danny/README.md)
