@@ -15,3 +15,5 @@
 ---
 
 ### 🖥 발표 영상
+
+[![thumbnail](https://github.com/24Seasons/talk/blob/main/contents/210405-kate/images/tumbnail.png?raw=true)](https://youtu.be/JibI6b6gwzY)
